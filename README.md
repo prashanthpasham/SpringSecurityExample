@@ -1,2 +1,2 @@
 # SpringSecurityExample
-This project is a practce of spring security  using xml configuration
+This project is a practice of spring security using xml configuration
